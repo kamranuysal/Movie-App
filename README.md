@@ -1,1 +1,1 @@
-check out the [Live Demo(https://kamranuysal.github.io/Movie-App/)]
+check out the [Live Demo](https://kamranuysal.github.io/Movie-App/)]
